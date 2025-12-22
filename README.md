@@ -6,22 +6,28 @@ This repository is for self-learning for Co-op program.
 
 This repository serves as a personal learning space for:
 - Computer Security and Network for automobile environment
-- Presentation materials and study notes
+- Presentation slides and study notes
 
 ## Structure
 
 ```
 .
 ├── presentations/     # PDF presentations
-├── resources/     # Study materials and resources
-└── README.md         # This file
+├── resources/     	   # Study notes and other resources
+└── README.md          # This file
 ```
 
 ## Presentations
 
-All presentation materials (PDF files) are organized in the `presentations/` directory. Each presentation covers specific topics related to computer security and networking.
+All presentation materials (PDF files) are placed in the `presentations/` directory. 
 
 For details on how to organize and contribute presentations, see [presentations/README.md](presentations/README.md).
+
+## resources
+
+Remaining materials other than the presentation materials are placed in the `resources/` directory.
+
+This may contain contents as references, study notes, etc.
 
 ## License
 
