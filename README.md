@@ -1,6 +1,6 @@
-# 2025W Co-op - Computer Security and Network Practice
+# 2025W Co-op study
 
-This repository is for self-learning for Co-op program.
+This repository is for self-learning for Co-op program held in 2026S.
 
 ## Purpose
 
