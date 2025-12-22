@@ -1,4 +1,4 @@
-# 2026W Co-op - Computer Security and Network Practice
+# 2025W Co-op - Computer Security and Network Practice
 
 This repository is for self-learning for Co-op program.
 
