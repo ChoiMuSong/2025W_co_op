@@ -1,18 +1,10 @@
 # Presentations
 
-This directory contains PDF presentations and study materials related to computer security and networking topics.
+This directory contains PDF presentations.
 
-## Organization
+## Upload 
 
-Presentations can be organized in the following ways:
-
-### By Topic
-- `security/` - Computer security related presentations
-- `networking/` - Network fundamentals and protocols
-- `cryptography/` - Encryption and cryptographic concepts
-- `web-security/` - Web application security
-- `system-security/` - Operating system and system security
-- `other/` - Miscellaneous topics
+(15-minute) Presentations can be upload every week.
 
 ### Naming Convention
 
@@ -22,31 +14,23 @@ Use descriptive filenames that clearly indicate the topic:
 - Good: `tcp-ip-protocol-overview.pdf`
 - Avoid: `presentation1.pdf`, `slides.pdf`
 
-## Adding Presentations
-
-To add a new presentation:
-
-1. Choose the appropriate topic directory (or create a new one if needed)
-2. Use a clear, descriptive filename with lowercase letters and hyphens
-3. Optionally, add a brief description below in the Index section
-
 ## Index
 
 This section can be updated to list available presentations with brief descriptions:
 
-### Computer Security
+### Week 1
 - (Add presentations here as they are uploaded)
 
-### Networking
+### Week 2
 - (Add presentations here as they are uploaded)
 
-### Cryptography
+### Week 3
 - (Add presentations here as they are uploaded)
 
-### Web Security
+### Week 4
 - (Add presentations here as they are uploaded)
 
-### System Security
+### Week 5
 - (Add presentations here as they are uploaded)
 
 ---
