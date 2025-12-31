@@ -22,10 +22,9 @@ This section can be updated to list available presentations with brief descripti
 ### Week 1
 - un-regulation-155.pdf (uploaded on 31 Dec 2025)
 
-Resources (UN Regulation 155/)
-
-- R155e.pdf (original document)
-- WP29 checklist.pdf (Autocrypt document for CMCS checklist)
+- Resources (UN Regulation 155/)
+    - R155e.pdf (original document)
+    - WP29 checklist.pdf (Autocrypt document for CMCS checklist)
 
 ### Week 2
 - wifi-protocol-1.pdf
