@@ -27,7 +27,10 @@ This section can be updated to list available presentations with brief descripti
     - WP29 checklist.pdf (Autocrypt document for CMCS checklist)
 
 ### Week 2
-- wifi-protocol-1.pdf
+- wifi-protocol-1.pdf (uploaded on 07 Jan 2026)
+
+- Resources (Wifi Protocol)
+    - References
 
 ### Week 3
 - wifi-protocol-2.pdf
@@ -49,4 +52,4 @@ This section can be updated to list available presentations with brief descripti
 
 ---
 
-*Last updated: December 2025*
+*Last updated: 07 Jan 2026*
