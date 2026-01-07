@@ -31,6 +31,8 @@ This section can be updated to list available presentations with brief descripti
 
 - Resources (Wifi Protocol)
     - References
+    - WireShark captures (https://wiki.wireshark.org/samplecaptures#sample-captures)
+        - Beacon frame, eapol, encrypted messages (wpa2linkuppassphraseiswireshark.pcap)
 
 ### Week 3
 - wifi-protocol-2.pdf
