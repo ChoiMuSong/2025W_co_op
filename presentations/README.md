@@ -27,7 +27,11 @@ This section can be updated to list available presentations with brief descripti
     - WP29 checklist.pdf (Autocrypt document for CMCS checklist)
 
 ### Week 2
-- wifi-protocol-1.pdf (uploaded on 07 Jan 2026)
+- wifi-protocol-1.pdf (uploaded on 07 Jan 2026, revised on 14 Jan 2026)
+- There was misconception in the pdf. 
+    - EAPOL is not used when 802.11 first appeared.
+    - WPA-1 is vulnerable with TKIP(stream cipher), but MIC is not a main vulnerability. 
+    - WPA-1/WPA-2 is vulnerable with 4-way handshake (PMKID dictionary attack), but MIC is not a main vulnerability.
 
 - Resources (Wifi Protocol)
     - References
