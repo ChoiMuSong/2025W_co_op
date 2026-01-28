@@ -38,13 +38,13 @@ This section can be updated to list available presentations with brief descripti
     - wpa2linkuppassphraseiswireshark.pcap (https://wiki.wireshark.org/samplecaptures#sample-captures)
         
 ### Week 3
-- wifi-protocol-2.pdf (uploaded-on 14 Jan 2026)
+- wifi-protocol-2.pdf (uploaded on 14 Jan 2026)
 
 ### Week 4
-- wifi-security-protection.pdf
+- wifi-security-protection.pdf (uploaded on 28 Jan 2026, revised later)
 
 ### Week 5
-- remote-keyless-entry.pdf
+- remote-keyless-entry.pdf (upload will be held next week)
 
 ### Week 6
 - phone-projection.pdf
@@ -57,4 +57,4 @@ This section can be updated to list available presentations with brief descripti
 
 ---
 
-*Last updated: 14 Jan 2026*
+*Last updated: 28 Jan 2026*
