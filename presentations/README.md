@@ -47,7 +47,7 @@ This section can be updated to list available presentations with brief descripti
 - remote-keyless-entry.pdf (upload will be held week 6, I set the due date by 02/06 which is Friday)
 
 ### Week 6
-- phone-projection.pdf (upload will be held next week 6, I set the due date by 02/06 which is Friday)
+- phone-projection.pdf (upload will be held next week 6, I set the due date by 02/08 which is Sunday)
 
 ### Week 7
 - rke-and-phone-projection-test.pdf
