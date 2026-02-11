@@ -51,6 +51,9 @@ This section can be updated to list available presentations with brief descripti
 
 ### Week 7
 - paper-review
+    - [text](https://www.usenix.org/system/files/vehiclesec25-bu.pdf)
+
+### Lunar New Year
 
 ### Week 8
 - final-report.pdf
