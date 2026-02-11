@@ -41,16 +41,16 @@ This section can be updated to list available presentations with brief descripti
 - wifi-protocol-2.pdf (uploaded on 14 Jan 2026)
 
 ### Week 4
-- wifi-security-protection.pdf (uploaded on 28 Jan 2026, revise will be later)
+- wifi-security-protection.pdf (uploaded on 28 Jan 2026)
 
 ### Week 5
-- remote-keyless-entry.pdf (upload will be held week 6, I set the due date by 02/06 which is Friday)
+- remote-keyless-entry.pdf (uploaded)
 
 ### Week 6
-- phone-projection.pdf (upload will be held next week 6, I set the due date by 02/08 which is Sunday)
+- phone-projection.pdf (uploaded)
 
 ### Week 7
-- rke-and-phone-projection-test.pdf
+- paper-review
 
 ### Week 8
 - final-report.pdf
