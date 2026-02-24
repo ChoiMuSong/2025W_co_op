@@ -40,7 +40,7 @@ This section can be updated to list available presentations with brief descripti
 
 ### Week 7
 - paper-review.pdf
-    - [Link](https://www.usenix.org/system/files/conference/woot16/woot16-paper-mazloom.pdf)
+    - [Link](https://www.usenix.org/system/files/vehiclesec25-setiadji.pdf)
 
 ### Week 8
 - final-report.pdf
