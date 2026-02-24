@@ -1,7 +1,7 @@
 # Presentations
 
 This directory contains PDF presentations.
-Resources will be also uploaded if needed.
+Presentation Summary will be also uploaded if needed.
 
 ## Upload 
 
@@ -20,38 +20,27 @@ Use descriptive filenames that clearly indicate the topic:
 This section can be updated to list available presentations with brief descriptions:
 
 ### Week 1
-- un-regulation-155.pdf (uploaded on 31 Dec 2025)
-
-- Resources (UN Regulation 155/)
-    - R155e.pdf (original document)
-    - WP29 checklist.pdf (Autocrypt document for CMCS checklist)
+- un-regulation-155.pdf
 
 ### Week 2
-- wifi-protocol-1.pdf (uploaded on 07 Jan 2026, revised on 14 Jan 2026)
-- There was misconception in the pdf. 
-    - EAPOL is not used when 802.11 first appeared.
-    - WPA-1 is vulnerable with TKIP(stream cipher), but MIC is not a main vulnerability. 
-    - WPA-1/WPA-2 is vulnerable with 4-way handshake (PMKID dictionary attack), but MIC is not a main vulnerability.
-
-- Resources (Wifi Protocol)
-    - References
-    - wpa2linkuppassphraseiswireshark.pcap (https://wiki.wireshark.org/samplecaptures#sample-captures)
+- wifi-protocol-1.pdf
+    - wpa2linkuppassphraseiswireshark.pcap [Link](https://wiki.wireshark.org/samplecaptures#sample-captures)
         
 ### Week 3
-- wifi-protocol-2.pdf (uploaded on 14 Jan 2026)
+- wifi-protocol-2.pdf
 
 ### Week 4
-- wifi-security-protection.pdf (uploaded on 28 Jan 2026)
+- wifi-security-protection.pdf
 
 ### Week 5
-- remote-keyless-entry.pdf (uploaded)
+- remote-keyless-entry.pdf
 
 ### Week 6
-- phone-projection.pdf (uploaded)
+- phone-projection.pdf
 
-### Week 7 - Lunar New Year
-- paper-review
-    - [candidate](https://www.usenix.org/system/files/vehiclesec25-bu.pdf)
+### Week 7
+- paper-review.pdf
+    - [Link](https://www.usenix.org/system/files/conference/woot16/woot16-paper-mazloom.pdf)
 
 ### Week 8
 - final-report.pdf
