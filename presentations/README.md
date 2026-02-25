@@ -39,7 +39,7 @@ This section can be updated to list available presentations with brief descripti
 - phone-projection.pdf
 
 ### Week 7
-- paper-review.pdf
+- paper-review
     - [Link](https://www.usenix.org/system/files/vehiclesec25-setiadji.pdf)
 
 ### Week 8
@@ -47,4 +47,4 @@ This section can be updated to list available presentations with brief descripti
 
 ---
 
-*Last updated: 3 Feb 2026*
+*Last updated: 25 Feb 2026*
