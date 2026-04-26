@@ -57,3 +57,72 @@ on specific components (EDR) and fail to introduce ad
 ditional features that would support fundamental require
 ments of a digital forensic, e.g. time synchronization and
 trust preservation
+
+1. Identify Problem: Insufficient data for Automotive Dig
+ital Forensic.
+2. DefineObjectives: Develop a system to increase vehicle
+digital forensic readiness.
+3. Design and Development: Black box logger with added
+GPS time, location, and ECU authentication.
+4. Demonstration: Proof of concept with commercially off
+the shelf hadware and custom software.
+5. Evaluation: Asses effectiveness, performance, and secu
+rity. From this particular step, it is possible for the DSR
+process to cycle around to step "Define Objectives" or
+"Design and Development".
+6. Communication: Submitted to journal or conference.
+
+ black boxes typically include the
+following features:
+• Crash-Survivable Memory;
+• Continuous Data Recording with Pre-Event Buffering;
+• Tamper-Proof Design;
+• Multimodal Data Capture;
+• Independent Power Supply.
+
+Based on [22], the
+general features of an automotive black box include:
+• Tamper-Evident Enclosure;
+• High Frequency Sampling;
+• Submersion Resistance;
+• Time Synchronisation;
+• Multi-Type Data Recording
+
+Black box systems offer various advanced features, but this
+study focuses on three essential functions: time synchroni
+sation, multi-type data recording, and continuous authentica
+tion—key to ensuring reliable forensic evidence and support
+ing legal admissibility.
+
+The black box system comprises three core components: a
+hardware module, a GPS module, and an authentication sys
+tem. 
+
+The
+black box software reads GPS output and appends time and
+location data alongside CAN data and the internal clock (used
+as a secondary time source). Both timestamps are recorded
+simultaneously to provide redundancy and ensure reliable
+temporal data in case of failure in either system.
+
+a CAN
+network simulates three critical ECUs (Engine Control, Brake
+Control, Airbag Control Modules)
+
+Contin
+uous authentication maintains a legitimate ECU inventory
+on the CAN bus, while logging provides temporal evidence
+of unauthorised modifications or intrusions. 
+
+For instance, sudden brake failure can be traced
+to driver error (through input logs), manufacturing defects
+(through ECU performance history), or malicious interfer
+ence (through ECU authentication logs).
+
+By incorporating GPS-based time synchro
+nisation, continuous ECU authentication, and comprehensive
+data collection capabilities, the system improves upon the
+existing logging mechanisms. The integration of temporal
+and spatial data coupled with authentication mechanism
+enhances the credibility and legal admissibility of forensic
+evidence. 
